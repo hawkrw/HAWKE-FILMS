@@ -2,4 +2,3 @@ User-agent: *
 Allow: /
 Disallow: /admin/
 Disallow: /login.html
-Sitemap: https://YOUR-HAWKE-FILMS-DOMAIN/sitemap.xml
